@@ -47,7 +47,7 @@ http://192.168.0.1:4022/rtp/239.3.1.241:8000
 http://192.168.0.1:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",BTV影视
 http://192.168.0.1:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",BTV文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="北京",BTV文艺
 http://192.168.0.1:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",BTV财经
 http://192.168.0.1:4022/rtp/239.3.1.116:8000
