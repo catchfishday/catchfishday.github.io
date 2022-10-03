@@ -41,8 +41,6 @@ https://v.bjiptv.eu.org/4.php
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯[高清][非官方]
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-
-
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV北京卫视[高清]
 http://192.168.0.1:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",BTV新闻[高清]
@@ -65,7 +63,6 @@ http://192.168.0.1:4022/rtp/239.3.1.115:8000
 http://192.168.0.1:4022/rtp/239.3.1.230:8000
 #EXTINF:-1 tvg-id="" tvg-name="BTV国际频道" tvg-logo="" group-title="北京",BTV国际频道
 http://192.168.0.1:4022/rtp/239.3.1.235:8000
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K[超清]
 http://192.168.0.1:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K超清[超清]
