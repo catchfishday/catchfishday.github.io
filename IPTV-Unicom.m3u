@@ -37,74 +37,8 @@ http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 http://192.168.0.1:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K超高清[超清HDR][非官方]
 https://v.bjiptv.eu.org/4.php
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文[非官方]
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯[非官方]
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV北京卫视
 http://192.168.0.1:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" group-title="北京",BTV新闻
-http://192.168.0.1:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E5%BD%B1%E8%A7%86.png" group-title="北京",BTV影视
-http://192.168.0.1:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="北京",BTV文艺
-http://192.168.0.1:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E8%B4%A2%E7%BB%8F.png" group-title="北京",BTV财经
-http://192.168.0.1:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png" group-title="北京",BTV生活
-http://192.168.0.1:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E9%9D%92%E5%B9%B4.png" group-title="北京",BTV青年
-http://192.168.0.1:4022/rtp/239.3.1.118:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BTV卡酷少儿
-http://192.168.0.1:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="" tvg-name="BTV纪实科教" tvg-logo="" group-title="北京",BTV纪实科教
-http://192.168.0.1:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="" tvg-name="BTV体育休闲" tvg-logo="" group-title="北京",BTV体育休闲
-http://192.168.0.1:4022/rtp/239.3.1.230:8000
-#EXTINF:-1 tvg-id="" tvg-name="BTV国际频道" tvg-logo="" group-title="北京",BTV国际频道
-http://192.168.0.1:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K[超清]
-http://192.168.0.1:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K超清[超清]
-http://192.168.0.1:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘电影
-http://192.168.0.1:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",每日影院
-http://192.168.0.1:4022/rtp/239.3.1.111:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影
-http://192.168.0.1:4022/rtp/239.3.1.94:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作影院
-http://192.168.0.1:4022/rtp/239.3.1.92:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",光影
-http://192.168.0.1:4022/rtp/239.3.1.84:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",喜剧影院
-http://192.168.0.1:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭影院
-http://192.168.0.1:4022/rtp/239.3.1.93:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精选
-http://192.168.0.1:4022/rtp/239.3.1.74:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典电影
-http://192.168.0.1:4022/rtp/239.3.1.195:9024
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
-http://192.168.0.1:4022/rtp/239.3.1.212:8060
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
-http://192.168.0.1:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚生活
-http://192.168.0.1:4022/rtp/239.3.1.114:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",地理
-http://192.168.0.1:4022/rtp/239.3.1.71:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘剧场
-http://192.168.0.1:4022/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幸福剧场
-http://192.168.0.1:4022/rtp/239.3.1.112:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘娱乐
-http://192.168.0.1:4022/rtp/239.3.1.100:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幸福娱乐
-http://192.168.0.1:4022/rtp/239.3.1.113:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘Baby
-http://192.168.0.1:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",萌宠TV
-http://192.168.0.1:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://192.168.0.1:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
@@ -175,16 +109,8 @@ http://192.168.0.1:4022/rtp/239.3.1.41:8140
 http://192.168.0.1:4022/rtp/239.3.1.44:8184
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://192.168.0.1:4022/rtp/239.3.1.43:8176
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通
-http://192.168.0.1:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",朝阳融媒
-http://192.168.0.1:4022/rtp/239.3.1.163:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",通州融媒
-http://192.168.0.1:4022/rtp/239.3.1.221:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",密云电视台
-http://192.168.0.1:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",延庆电视台
-http://192.168.0.1:4022/rtp/239.3.1.187:8001
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://192.168.0.1:4022/rtp/239.3.1.51:9252
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际 欧洲
 http://192.168.0.1:4022/rtp/239.3.1.213:4220
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际 美洲
@@ -201,14 +127,96 @@ http://192.168.0.1:4022/rtp/239.3.1.218:4220
 http://192.168.0.1:4022/rtp/239.3.1.219:4220
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 俄语
 http://192.168.0.1:4022/rtp/239.3.1.220:4220
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文[非官方]
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯[非官方]
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" group-title="北京",BTV新闻
+http://192.168.0.1:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E5%BD%B1%E8%A7%86.png" group-title="北京",BTV影视
+http://192.168.0.1:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="北京",BTV文艺
+http://192.168.0.1:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E8%B4%A2%E7%BB%8F.png" group-title="北京",BTV财经
+http://192.168.0.1:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png" group-title="北京",BTV生活
+http://192.168.0.1:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E9%9D%92%E5%B9%B4.png" group-title="北京",BTV青年
+http://192.168.0.1:4022/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BTV卡酷少儿
+http://192.168.0.1:4022/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV纪实科教" tvg-logo="" group-title="北京",BTV纪实科教
+http://192.168.0.1:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV体育休闲" tvg-logo="" group-title="北京",BTV体育休闲
+http://192.168.0.1:4022/rtp/239.3.1.230:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV国际频道" tvg-logo="" group-title="北京",BTV国际频道
+http://192.168.0.1:4022/rtp/239.3.1.235:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",朝阳融媒
+http://192.168.0.1:4022/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",通州融媒
+http://192.168.0.1:4022/rtp/239.3.1.221:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",密云电视台
+http://192.168.0.1:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",延庆电视台
+http://192.168.0.1:4022/rtp/239.3.1.187:8001
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
+http://192.168.0.1:4022/rtp/239.3.1.212:8060
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通
+http://192.168.0.1:4022/rtp/239.3.1.188:8001
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
+http://192.168.0.1:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+http://192.168.0.1:4022/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
+http://192.168.0.1:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
+http://192.168.0.1:4022/rtp/239.3.1.164:8001
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
 http://192.168.0.1:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
+http://192.168.0.1:4022/rtp/239.3.1.53:9136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K[超清]
+http://192.168.0.1:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K超清[超清]
+http://192.168.0.1:4022/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘电影
+http://192.168.0.1:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",每日影院
+http://192.168.0.1:4022/rtp/239.3.1.111:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影
+http://192.168.0.1:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作影院
+http://192.168.0.1:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",光影
+http://192.168.0.1:4022/rtp/239.3.1.84:4120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",喜剧影院
+http://192.168.0.1:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭影院
+http://192.168.0.1:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精选
+http://192.168.0.1:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典电影
+http://192.168.0.1:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚生活
+http://192.168.0.1:4022/rtp/239.3.1.114:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",地理
+http://192.168.0.1:4022/rtp/239.3.1.71:4120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘剧场
+http://192.168.0.1:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幸福剧场
+http://192.168.0.1:4022/rtp/239.3.1.112:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘娱乐
+http://192.168.0.1:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幸福娱乐
+http://192.168.0.1:4022/rtp/239.3.1.113:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘Baby
+http://192.168.0.1:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",萌宠TV
+http://192.168.0.1:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",体育赛事
 http://192.168.0.1:4022/rtp/239.3.1.157:8176
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘精彩
 http://192.168.0.1:4022/rtp/239.3.1.178:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
-http://192.168.0.1:4022/rtp/239.3.1.164:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大健康
 http://192.168.0.1:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1
@@ -235,10 +243,6 @@ http://192.168.0.1:4022/rtp/239.3.1.80:4120
 http://192.168.0.1:4022/rtp/239.3.1.69:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",台球
 http://192.168.0.1:4022/rtp/239.3.1.85:4120
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://192.168.0.1:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
-http://192.168.0.1:4022/rtp/239.3.1.77:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",城市剧场
 http://192.168.0.1:4022/rtp/239.3.1.67:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",墨宝
@@ -263,12 +267,8 @@ http://192.168.0.1:4022/rtp/239.3.1.86:4120
 http://192.168.0.1:4022/rtp/239.3.1.73:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美妆
 http://192.168.0.1:4022/rtp/239.3.1.72:4120
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
-http://192.168.0.1:4022/rtp/239.3.1.53:9136
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球
 http://192.168.0.1:4022/rtp/239.3.1.89:4120
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://192.168.0.1:4022/rtp/239.3.1.51:9252
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",鉴赏
 http://192.168.0.1:4022/rtp/239.3.1.82:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",音乐现场
