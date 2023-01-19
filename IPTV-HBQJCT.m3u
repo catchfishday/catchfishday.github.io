@@ -299,7 +299,7 @@ http://192.168.1.1:4022/rtp/239.69.1.74:10084
 http://192.168.1.1:4022/rtp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电视指南 
 http://192.168.1.1:4022/rtp/239.69.1.87:10162
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫 
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="未分类",新动漫 
 http://192.168.1.1:4022/rtp/239.69.1.187:10764
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚 
 http://192.168.1.1:4022/rtp/239.69.1.86:10156
