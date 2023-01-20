@@ -56,7 +56,7 @@ http://192.168.96.110:4022/rtp/239.69.1.232:11034
 http://192.168.96.110:4022/rtp/239.69.1.89:10174
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐 
 http://192.168.96.110:4022/rtp/239.69.1.90:10180
-#EXTINF:-1 tvg-id="xxxx" tvg-name="电视指南" tvg-logo="https://catchfishday.github.io/logo/cctv-dszn.png" group-title="央视",电视指南 
+#EXTINF:-1 tvg-id="xxxx" tvg-name="电视指南" tvg-logo="https://catchfishday.github.io/logo/CCTVDSZN.png" group-title="央视",电视指南 
 http://192.168.96.110:4022/rtp/239.69.1.87:10162
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",央视台球HD 
 http://192.168.96.110:4022/rtp/239.69.1.98:10224
