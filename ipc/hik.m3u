@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",C3C
+http://192.168.95.1:1984/api/stream.mp4?src=c3c&mp4=all
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",C6C
+http://192.168.95.1:1984/api/stream.mp4?src=c6c&mp4=all
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",3T47
+http://192.168.95.1:1984/api/stream.mp4?src=3t47&mp4=all
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CT6C
+http://192.168.95.1:1984/api/stream.mp4?src=c6tc-2&mp4=all
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",C6WI
+http://192.168.95.1:1984/api/stream.mp4?src=c6wi-2&mp4=all
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",7520
+http://192.168.95.1:1984/api/stream.mp4?src=7520&mp4=all
