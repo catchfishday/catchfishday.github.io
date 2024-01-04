@@ -37,8 +37,6 @@ http://192.168.95.1:4022/rtp/239.3.1.65:8132
 http://192.168.95.1:4022/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村[高清]
 http://192.168.95.1:4022/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K 超高清[超清HDR]
-http://192.168.95.1:4022/rtp/239.3.1.245:2000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 新闻[高清]
 http://192.168.95.1:4022/rtp/239.3.1.215:4220
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 记录[高清]
@@ -127,8 +125,32 @@ http://192.168.95.1:4022/rtp/239.3.1.43:8176
 http://192.168.95.1:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://192.168.95.1:4022/rtp/239.3.1.51:9252
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",大湾区卫视
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="" group-title="卫视",大湾区卫视
 http://192.168.95.1:4022/rtp/239.3.1.161:8001
+
+
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K超清[超清]
+http://192.168.95.1:4022/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
+http://192.168.95.1:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
+http://192.168.95.1:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓[高清]
+http://192.168.95.1:4022/rtp/239.3.1.164:8001
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1[高清]
+http://192.168.95.1:4022/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
+http://192.168.95.1:4022/rtp/239.3.1.54:4120
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",CETV3
+http://192.168.95.1:4022/rtp/239.3.1.55:4120
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
+http://192.168.95.1:4022/rtp/239.3.1.56:4120
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+http://192.168.95.1:4022/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
+http://192.168.95.1:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
+http://192.168.95.1:4022/rtp/239.3.1.53:9136
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV新闻[高清]
@@ -149,34 +171,10 @@ http://192.168.95.1:4022/rtp/239.3.1.243:8000
 http://192.168.95.1:4022/rtp/239.3.1.235:8000
 
 
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通[高清]
-http://192.168.95.1:4022/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文[高清]
 http://192.168.95.1:4022/rtp/239.3.1.212:8060
-
-
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
-http://192.168.95.1:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
-http://192.168.95.1:4022/rtp/239.3.1.165:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓[高清]
-http://192.168.95.1:4022/rtp/239.3.1.164:8001
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1[高清]
-http://192.168.95.1:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
-http://192.168.95.1:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",CETV3
-http://192.168.95.1:4022/rtp/239.3.1.55:4120
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
-http://192.168.95.1:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K超清[超清]
-http://192.168.95.1:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
-http://192.168.95.1:4022/rtp/239.3.1.53:9136
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://192.168.95.1:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
-http://192.168.95.1:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通[高清]
+http://192.168.95.1:4022/rtp/239.3.1.188:8001
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K[超清]
